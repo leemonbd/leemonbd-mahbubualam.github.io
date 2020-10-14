@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4fe95a95-45d9-422d-9441-9c11a54bf71d" name="Default Changelist" comment="" />
+    <list default="true" id="4fe95a95-45d9-422d-9441-9c11a54bf71d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +12,9 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hrhmap278WMIlCqOrdEgfWfFBd" />
   <component name="ProjectViewState">
@@ -18,6 +24,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/New folder" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -36,6 +44,12 @@
       <workItem from="1600880532263" duration="2703000" />
       <workItem from="1600926273165" duration="2639000" />
       <workItem from="1600932218244" duration="4027000" />
+      <workItem from="1600962264067" duration="27000" />
+      <workItem from="1601038768748" duration="18000" />
+      <workItem from="1601039068279" duration="346000" />
+      <workItem from="1602579783243" duration="1188000" />
+      <workItem from="1602600734862" duration="489000" />
+      <workItem from="1602647185421" duration="2170000" />
     </task>
     <servers />
   </component>
@@ -43,6 +57,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1601039085226">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1601039085226" />
     <state x="456" y="195" key="run.anything.popup" timestamp="1600940594365">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
